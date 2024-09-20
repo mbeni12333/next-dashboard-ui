@@ -5,7 +5,6 @@ import Link from "next/link";
 import Image from "next/image";
 import Menu from "@/components/Menu";
 const inter = Inter({ subsets: ["latin"] });
-border - cyan - 300;
 
 export const metadata: Metadata = {
   title: "Lama Dev School Management Dashboard",
