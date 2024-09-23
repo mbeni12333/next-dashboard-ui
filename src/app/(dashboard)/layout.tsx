@@ -6,14 +6,11 @@ import Image from "next/image";
 import Menu from "@/components/Menu";
 import Navbar from "@/components/Navbar";
 const inter = Inter({ subsets: ["latin"] });
-<<<<<<< HEAD
-=======
 
 export const metadata: Metadata = {
   title: "Lama Dev School Management Dashboard",
   description: "Next.js School Management System",
 };
->>>>>>> 58f95df6950391f4d6c7563f5c4cd1f82cb92481
 
 export default function DashboardLayout({
   children,
